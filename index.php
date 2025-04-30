@@ -218,7 +218,7 @@ SOFTWARE.
 </div>
 
     <footer class="border-t border-gray-300 mt-5 pt-1 text-sm text-gray-400">
-        <a href="">Micro Server Status</a>
+        <a href="https://github.com/t94xr/MicroServerInfo">Micro Server Status</a>
     </footer>
 
   </div>
